@@ -1,0 +1,26 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "Project: Testing Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacen-dev/odin-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacen-dev/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/nacen-dev/odin-testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
